@@ -19,14 +19,17 @@
  <li>Databasefila eg bruker heiter database.db</li>
  <li>Tabellane eg bruker er:</li>
  <ul>
+  <li>users: </li>
+   <ul>
   <li>firstname</li>
   <li>lastname</li>
   <li>email</li>
   <li>password</li>
+   </ul>
+  <li>products</li>
+  <ul>
+   <li>name</li>
+   <li>category</li>
+   <li>price</li>
  </ul>
 </ul>
-- 
-  * products
-     - name
-      - category
-      - price
