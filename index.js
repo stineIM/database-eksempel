@@ -26,7 +26,7 @@ app.use(express.urlencoded({ extended: true }));
 // Routes will be added here
 
 app.listen(port, () => {
-    console.log(`Server listening on port ${port}`);
+    console.log(`Server er startet her: http://localhost:${port}`);
 });
 
 app.get('/', (req, res) => {
