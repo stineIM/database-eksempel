@@ -15,13 +15,17 @@
 - Kommando: node index.js
 
 <h2>Database:</h2> 
-- Databasefila eg bruker heiter database.db
-- Tabellane eg bruker er:
-  * users
-     - firstname
-      - lastname
-      - email
-      - password
+<ul>
+ <li>Databasefila eg bruker heiter database.db</li>
+ <li>Tabellane eg bruker er:</li>
+ <ul>
+  <li>firstname</li>
+  <li>lastname</li>
+  <li>email</li>
+  <li>password</li>
+ </ul>
+</ul>
+- 
   * products
      - name
       - category
