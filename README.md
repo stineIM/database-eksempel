@@ -13,3 +13,16 @@ Bilder:
 Starte applikasjonen: 
 - Bruk CMD (command prompt) og naviger til mappa.
 - Kommando: node index.js
+
+Database: 
+- Databasefila eg bruker heiter database.db
+- Tabellane eg bruker er:
+  * users
+  *   - firstname
+      - lastname
+      - email
+      - password
+  * products
+  *   - name
+      - category
+      - price
