@@ -4,7 +4,7 @@ Dette må du huske på før du starter:
 * Pass på at du har tabellane og kolonnene som trengs
 * Filene du trenger å endre på er: index.js og filene i views og public-mappene. 
 
-Styling: 
+<b>Styling:<b> 
 * Linke til css: <link rel="stylesheet" href="/style.css">
 
 Bilder: 
