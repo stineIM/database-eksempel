@@ -3,7 +3,7 @@
  <li> Installer <a href="https://nodejs.org/en">Node.js</a></li>
 <li>Opprett ei mappe til prosjektet</li>
 <li> Kjør kommandoen <code>npm init -y </code> i mappa</li>
-<li> Kjør kommandoen <code>npm install sqlite3 express ejs</code></li>
+<li> Kjør kommandoen <code>npm install sqlite3 express ejs bcrypt sqlite express-session</code></li>
  <li>Opprett ei databasefil (database.db) (td. i SQLiteStudio). Denne må ligge i prosjektmappa di. </li>
  <li>Last ned eksempelkoden og prøv deg fram.</li>
 </ol>
